@@ -1,0 +1,7 @@
+{
+  "name": "hide-tab-detail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
