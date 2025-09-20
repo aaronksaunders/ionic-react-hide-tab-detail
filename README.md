@@ -76,6 +76,14 @@ useIonViewWillLeave(() => {
   className={isTabBarVisible ? "" : "ion-hide"}
 >
 ```
+## Author
+
+Created by Aaron K. Saunders
+
+- 🎥 [YouTube Channel](https://www.youtube.com/channel/UCMCcqbJpyL3LAv3PJeYz2bg/)
+- 🐦 [Twitter](https://x.com/aaronksaunders)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaronksaunders/)
+- 🌐 [GitHub](https://github.com/aaronksaunders)
 
 ## 🎮 How to Use
 
